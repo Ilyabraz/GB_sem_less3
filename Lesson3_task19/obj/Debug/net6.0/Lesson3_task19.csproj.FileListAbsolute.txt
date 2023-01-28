@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\bin\Debug\net6.0\Lesson3_task19.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\bin\Debug\net6.0\Lesson3_task19.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\bin\Debug\net6.0\Lesson3_task19.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\bin\Debug\net6.0\Lesson3_task19.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\bin\Debug\net6.0\Lesson3_task19.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\refint\Lesson3_task19.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\Lesson3_task19.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_sem_less3\Lesson3_task19\obj\Debug\net6.0\ref\Lesson3_task19.dll
